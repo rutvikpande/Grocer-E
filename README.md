@@ -21,7 +21,4 @@ iv)Option for deleting an item is also provided.
 v)Also details of an order can be viewed.
 
 
-1. Front end: UI is written in HTML / CSS / Javascript / Bootstrap
-2. Backend: Python and Flask
-3. Database: MYSQL
 
